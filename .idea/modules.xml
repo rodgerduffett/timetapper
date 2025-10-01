@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/timetapper.iml" filepath="$PROJECT_DIR$/timetapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auther.iml" filepath="$PROJECT_DIR$/auther.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/auther_android.iml" filepath="$PROJECT_DIR$/android/auther_android.iml" />
     </modules>
   </component>
 </project>
