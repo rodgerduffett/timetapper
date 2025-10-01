@@ -1,4 +1,4 @@
-# auther
+# timetapper
 
 Learning how to auth against supabase
 
